@@ -1,11 +1,17 @@
 {
-  "name": "winston-dynamodb",
+  "name": "winston-dynamodb-update",
   "description": "A Winston transport for Amazon DynamoDB",
   "version": "0.1.4",
   "author": {
     "name":"JeongWoo Chang",
     "email":"inspired.jw@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "Yaw Joseph Etse",
+      "email": "yaw.etse@gmail.com"
+    }
+  ],
   "homepage": "https://github.com/inspiredjw/winston-dynamodb",
   "repository": {
     "type": "git",
